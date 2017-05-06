@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <setParameter name="IIS Web Application Name" value="Default Web Site/" />
+  <setParameter name="RDSConn-Web.config Connection String" value="server=skholrrds.csoycoxzssog.us-east-1.rds.amazonaws.com;user id=skholrsrao7;password=sherlockH55;persistsecurityinfo=True;database=skholrdocRDS" />
+</parameters>

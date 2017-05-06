@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="RDSConn-Web.config Connection String" description="RDSConn Connection String used in web.config by the application to access the database." defaultValue="server=skholrrds.csoycoxzssog.us-east-1.rds.amazonaws.com;user id=skholrsrao7;password=sherlockH55;persistsecurityinfo=True;database=skholrdocRDS" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\SHREE\\documents\\visual\ studio\ 2017\\Projects\\SkholrApp\\SkholrApp\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='RDSConn']/@connectionString" />
+  </parameter>
+</parameters>
